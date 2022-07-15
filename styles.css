@@ -1,0 +1,40 @@
+.headContainer {
+  width: 70%;
+  margin: auto;
+}
+
+.dicee {
+  display: inline-block;
+}
+
+.dice_rolling {
+  background-color: #533E85;
+  text-align: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 20px 0 #232931;
+  font-size: 6rem;
+  color: #B3E8E5;
+}
+
+p {
+  font-size: 2rem;
+  text-shadow: 20px 0 #232931;
+  color: #B3E8E5;
+  font-family: 'Sacramento', cursive;
+}
+
+img {
+  border-radius: 20px;
+  width: 70%;
+}
+
+footer {
+  margin-top: 7%;
+  color: #f2eded;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
